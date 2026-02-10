@@ -3,6 +3,15 @@ A small program designed to make life easier for server developers (SAMP). In ot
 
 Cut through this entire procedure using just one command.
 
+# config.json
+```json
+{
+  "textdraw": { "nome": "Textdraw Editor", "caminho": "Your directory.../samp-server.exe" },
+  "map": { "nome": "Map Editor", "caminho": "Your directory.../samp-server.exe" },
+  "server": { "nome": "Servidor SA-MP", "caminho": "Your directory.../samp-server.exe" }
+}
+```
+
 # Examples
 
 ![Alt Text](https://github.com/mateus-bsod/samp-helpdev/blob/main/example.gif)
