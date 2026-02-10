@@ -1,5 +1,5 @@
 # samp-helpdev
-A small program designed to make life easier for server developers (SAMP). In other words, I was tired of having to open the SAMP server, open the SAMP initializer, and only then log into the server to test every time I compiled... so I simplified my work and I'm sharing it to see if I can help someone else.
+A small program developed to make life easier for SAMP server developers. Well... in other words, I was tired of having to open the SAMP server, then the SAMP launcher, and only then being able to actually access the server to test the latest modification. I simplified this with just one command, so... I hope this helps.
 
 Cut through this entire procedure using just one command.
 
