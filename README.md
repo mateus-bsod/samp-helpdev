@@ -16,25 +16,21 @@ Cut through this entire procedure using just one command.
 
 ![Alt Text](https://github.com/mateus-bsod/samp-helpdev/blob/main/example.gif)
 
-#### Textdraw
-```
+
+```diff
++  Textdraw
 samp-helpdev.exe -td -r
                  |   |
                  |   ◟ Start SAMP on IP 127.0.0.1:7777 (default: 7777, but you can configure it)
                  ◟ This starts the "samp-server.exe" file, which is responsible for the gamemode of you textdraw-editor (config.json).
-```
 
-#### Server
-```
++  Server
 samp-helpdev.exe -sv -r
                  |   |
                  |   ◟ Start SAMP on IP 127.0.0.1:7777 (default: 7777, but you can configure it)
                  ◟ This starts the "samp-server.exe" file, which is responsible for the gamemode of you server (config.json).
-```
 
-
-#### Map
-```
++  Map
 samp-helpdev.exe -map -r
                  |    |
                  |    ◟ Start SAMP on IP 127.0.0.1:7777 (default: 7777, but you can configure it)
