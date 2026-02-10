@@ -1,0 +1,5 @@
+{
+  "textdraw": { "nome": "Textdraw Editor", "caminho": "C:/Users/Administrator/Desktop/samp-textdraw-editor/samp-server.exe" },
+  "map": { "nome": "Map Editor", "caminho": "C:/Users/Administrator/Desktop/map-editor/samp-server.exe" },
+  "server": { "nome": "Servidor SA-MP", "caminho": "C:/Servidor/samp-server.exe" }
+}
