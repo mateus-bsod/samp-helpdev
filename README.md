@@ -1,7 +1,11 @@
 # samp-helpdev
 A small program designed to make life easier for server developers (SAMP). In other words, I was tired of having to open the SAMP server, open the SAMP initializer, and only then log into the server to test every time I compiled... so I simplified my work and I'm sharing it to see if I can help someone else.
 
+Cut through this entire procedure using just one command.
+
 # Examples
+
+![Alt Text](https://github.com/mateus-bsod/samp-helpdev/blob/main/example.gif)
 
 #### Textdraw
 ```
